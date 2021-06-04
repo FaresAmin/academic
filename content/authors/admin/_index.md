@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Fares Mohamed Amine
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Ph.D student, Veterinary Anatomy
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Souk Ahras
+
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
